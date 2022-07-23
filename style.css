@@ -30,7 +30,7 @@ h2{
     justify-content: space-evenly;
 }
 @media(max-width:575px){
-    .outer-div{
+    .wrapper{
        flex-direction: column; 
     }
   }
