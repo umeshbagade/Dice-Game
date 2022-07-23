@@ -29,3 +29,8 @@ h2{
     display: flex;
     justify-content: space-evenly;
 }
+@media(max-width:575px){
+    .outer-div{
+       flex-direction: column; 
+    }
+  }
